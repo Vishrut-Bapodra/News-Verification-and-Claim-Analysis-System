@@ -106,6 +106,7 @@ The system runs on CPU and does not train any machine learning models.
 ## 📁 Project Structure
 
 news-verification-claim-analysis-system/
+
 │
 
 ├── app.py # Streamlit frontend
