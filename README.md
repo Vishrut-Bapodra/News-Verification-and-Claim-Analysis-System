@@ -115,8 +115,6 @@ news-verification-claim-analysis-system/
 
 ├── workflow.py # LangGraph workflow
 
-│
-
 ├── agents.py # Reasoning agents
 
 ├── tools.py # Scraping & search utilities
